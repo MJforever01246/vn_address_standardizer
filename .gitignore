@@ -1,6 +1,6 @@
 /vnaddress.egg-info/
 /dist/
-build/
+build/*
 .idea/
 .settings/
 .project
@@ -8,3 +8,8 @@ build/
 *.pyc
 /dokenv/
 /__pycache__/
+venv/*
+model/*
+dist/*
+*.log
+vn_address_standardizer.egg-info/*
